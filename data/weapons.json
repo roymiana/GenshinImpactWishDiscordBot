@@ -1,0 +1,406 @@
+{
+    "star_five": [
+    {
+        "name": "Amos' Bow",
+        "id": 0,
+        "class": "Weapon",
+        "amount": 1,
+        "rarity": 5,
+        "type": "Bow",
+        "imageurl": "https://static.wikia.nocookie.net/gensin-impact/images/4/42/Weapon_Amos%27_Bow_3D.png"
+    },
+    {
+        "name": "Aquila Favonia",
+        "id": 1,
+        "class": "Weapon",
+        "amount": 1,
+        "rarity": 5,
+        "type": "Sword",
+        "imageurl": "https://static.wikia.nocookie.net/gensin-impact/images/1/13/Weapon_Aquila_Favonia_3D.png"
+    },
+    {
+        "name": "Lost Prayer to the Sacred Winds",
+        "id": 2,
+        "class": "Weapon",
+        "amount": 1,
+        "rarity": 5,
+        "type": "Catalyst",
+        "imageurl": "https://static.wikia.nocookie.net/gensin-impact/images/e/ec/Weapon_Lost_Prayer_to_the_Sacred_Winds_3D.png"
+    },
+    {
+        "name": "Primordial Jade Winged-Spear",
+        "id": 3,
+        "class": "Weapon",
+        "amount": 1,
+        "rarity": 5,
+        "type": "Polearm",
+        "imageurl": "https://static.wikia.nocookie.net/gensin-impact/images/c/c6/Weapon_Primordial_Jade_Winged-Spear_3D.png"
+    },
+    {
+        "name": "Skyward Atlas",
+        "id": 4,
+        "class": "Weapon",
+        "amount": 1,
+        "rarity": 5,
+        "type": "Catalyst",
+        "imageurl": "https://static.wikia.nocookie.net/gensin-impact/images/3/34/Weapon_Skyward_Atlas_3D.png"
+    },
+    {
+        "name": "Skyward Blade",
+        "id": 5,
+        "class": "Weapon",
+        "amount": 1,
+        "rarity": 5,
+        "type": "Sword",
+        "imageurl": "https://static.wikia.nocookie.net/gensin-impact/images/e/e6/Weapon_Skyward_Blade_3D.png"
+    },
+    {
+        "name": "Skyward Harp",
+        "id": 6,
+        "class": "Weapon",
+        "amount": 1,
+        "rarity": 5,
+        "type": "Bow",
+        "imageurl": "https://static.wikia.nocookie.net/gensin-impact/images/a/a9/Weapon_Skyward_Harp_3D.png"
+    },
+    {
+        "name": "Skyward Pride",
+        "id": 7,
+        "class": "Weapon",
+        "amount": 1,
+        "rarity": 5,
+        "type": "Claymore",
+        "imageurl": "https://static.wikia.nocookie.net/gensin-impact/images/c/c8/Weapon_Skyward_Pride_3D.png"
+    },
+    {
+        "name": "Skyward Spine",
+        "id": 8,
+        "class": "Weapon",
+        "amount": 1,
+        "rarity": 5,
+        "type": "Polearm",
+        "imageurl": "https://static.wikia.nocookie.net/gensin-impact/images/1/1f/Weapon_Skyward_Spine_3D.png"
+    },
+    {
+        "name": "Wolf's Gravestone",
+        "id": 9,
+        "class": "Weapon",
+        "amount": 1,
+        "rarity": 5,
+        "type": "Clatmore",
+        "imageurl": "https://static.wikia.nocookie.net/gensin-impact/images/c/c9/Wolf_A1.png"
+    },
+    {
+        "name": "Memory of Dust",
+        "id": 10,
+        "class": "Weapon",
+        "amount": 1,
+        "rarity": 5,
+        "type": "Catalyst",
+        "imageurl": "https://static.wikia.nocookie.net/gensin-impact/images/1/15/Weapon_Memory_of_Dust_3D.png"
+    },
+    {
+        "name": "Vortex Vanquisher",
+        "id": 11,
+        "class": "Weapon",
+        "amount": 1,
+        "rarity": 5,
+        "type": "Polearm",
+        "imageurl": "https://static.wikia.nocookie.net/gensin-impact/images/a/a0/Weapon_Vortex_Vanquisher_3D.png"
+    },
+    {
+        "name": "The Unforged",
+        "id": 12,
+        "class": "Weapon",
+        "amount": 1,
+        "rarity": 5,
+        "type": "Claymore",
+        "imageurl": "https://static.wikia.nocookie.net/gensin-impact/images/b/b5/Weapon_The_Unforged_3D.png"
+    }
+    ],
+
+    "star_four": [
+    {
+        "name": "Sacrificial Bow",
+        "id": 0,
+        "class": "Weapon",
+        "amount": 1,
+        "rarity": 4,
+        "type": "Bow",
+        "imageurl": "https://static.wikia.nocookie.net/gensin-impact/images/d/d3/Weapon_Sacrificial_Bow_3D.png"
+    },
+    {
+        "name": "The Stringless",
+        "id": 1,
+        "class": "Weapon",
+        "amount": 1,
+        "rarity": 4,
+        "type": "Bow",
+        "imageurl": "https://static.wikia.nocookie.net/gensin-impact/images/1/1c/Weapon_The_Stringless_3D.png"
+    }, 
+    {
+        "name": "Favonius Warbow",
+        "id": 2,
+        "class": "Weapon",
+        "amount": 1,
+        "rarity": 4,
+        "type": "Bow",
+        "imageurl": "https://static.wikia.nocookie.net/gensin-impact/images/a/a7/Weapon_Favonius_Warbow_3D.png"
+    }, 
+    {
+        "name": "Eye of Perception",
+        "id": 3,
+        "class": "Weapon",
+        "amount": 1,
+        "rarity": 4,
+        "type": "Catalyst",
+        "imageurl": "https://static.wikia.nocookie.net/gensin-impact/images/a/ac/Weapon_Eye_of_Perception_3D.png"}
+    , 
+    {
+        "name": "Sacrificial Fragments",
+        "id": 4,
+        "class": "Weapon",
+        "amount": 1,
+        "rarity": 4,
+        "type": "Catalyst",
+        "imageurl": "https://static.wikia.nocookie.net/gensin-impact/images/2/20/Fragments_A1.png"}
+    , 
+    {
+        "name": "The Widsith",
+        "id": 5,
+        "class": "Weapon",
+        "amount": 1,
+        "rarity": 4,
+        "type": "Catalyst",
+        "imageurl": "https://static.wikia.nocookie.net/gensin-impact/images/4/4a/Weapon_The_Widsith_3D.png"}
+    , 
+    {
+        "name": "Favonius Codex",
+        "id": 6,
+        "class": "Weapon",
+        "amount": 1,
+        "rarity": 4,
+        "type": "Catalyst",
+        "imageurl": "https://static.wikia.nocookie.net/gensin-impact/images/6/67/Favonius_Codex_3D_A1.png"}
+    , 
+    {
+        "name": "Favonius Lance",
+        "id": 7,
+        "class": "Weapon",
+        "amount": 1,
+        "rarity": 4,
+        "type": "Polearm",
+        "imageurl": "https://static.wikia.nocookie.net/gensin-impact/images/c/c6/Weapon_Favonius_Lance_3D.png"}
+    , 
+    {
+        "name": "Dragon's Bane",
+        "id": 8,
+        "class": "Weapon",
+        "amount": 1,
+        "rarity": 4,
+        "type": "Polearm",
+        "imageurl": "https://static.wikia.nocookie.net/gensin-impact/images/f/ff/Weapon_Dragon%27s_Bane_3D.png"}
+    , 
+    {
+        "name": "Rainslasher",
+        "id": 9,
+        "class": "Weapon",
+        "amount": 1,
+        "rarity": 4,
+        "type": "Claymore",
+        "imageurl": "https://static.wikia.nocookie.net/gensin-impact/images/6/67/Weapon_Rainslasher_3D.png"}
+    , 
+    {
+        "name": "Sacrificial Greatsword",
+        "id": 10,
+        "class": "Weapon",
+        "amount": 1,
+        "rarity": 4,
+        "type": "Claymore",
+        "imageurl": "https://static.wikia.nocookie.net/gensin-impact/images/d/d5/Weapon_Sacrificial_Greatsword_3D.png"}
+    , 
+    {
+        "name": "The Bell",
+        "id": 11,
+        "class": "Weapon",
+        "amount": 1,
+        "rarity": 4,
+        "type": "Claymore",
+        "imageurl": "https://static.wikia.nocookie.net/gensin-impact/images/7/77/Weapon_The_Bell_3D.png"}
+    , 
+    {
+        "name": "Favonius Greatsword",
+        "id": 12,
+        "class": "Weapon",
+        "amount": 1,
+        "rarity": 4,
+        "type": "Claymore",
+        "imageurl": "https://static.wikia.nocookie.net/gensin-impact/images/8/8f/Weapon_Favonius_Greatsword_3D.png"}
+    , 
+    {
+        "name": "Lion's Roar",
+        "id": 13,
+        "class": "Weapon",
+        "amount": 1,
+        "rarity": 4,
+        "type": "Sword",
+        "imageurl": "https://static.wikia.nocookie.net/gensin-impact/images/5/51/Weapon_Lion%27s_Roar_3D.png"}
+    , 
+    {
+        "name": "Sacrificial Sword",
+        "id": 14,
+        "class": "Weapon",
+        "amount": 1,
+        "rarity": 4,
+        "type": "Sword",
+        "imageurl": "https://static.wikia.nocookie.net/gensin-impact/images/a/a9/Sacrificial_Sword_3D.jpg"
+    },
+    {
+        "name": "The Flute",
+        "id": 15,
+        "class": "Weapon",
+        "amount": 1,
+        "rarity": 4,
+        "type": "Sword",
+        "imageurl": "https://static.wikia.nocookie.net/gensin-impact/images/a/ad/The_Flute_A1.png"
+    }, 
+    {
+        "name": "Favonius Sword",
+        "id": 16,
+        "class": "Weapon",
+        "amount": 1,
+        "rarity": 4,
+        "type": "Sword",
+        "imageurl": "https://static.wikia.nocookie.net/gensin-impact/images/e/ed/Weapon_Favonius_Sword_3D.png"
+    },
+    {
+        "name": "Rust",
+        "id": 17,
+        "class": "Weapon",
+        "amount": 1,
+        "rarity": 4,
+        "type": "Bow",
+        "imageurl": "https://static.wikia.nocookie.net/gensin-impact/images/e/e3/Rust_A1.jpg"
+    }
+    ],
+
+    "star_three": [
+    {
+        "name": "Slingshot",
+        "id": 0,
+        "class": "Weapon",
+        "amount": 1,
+        "rarity": 3,
+        "type": "Bow",
+        "imageurl": "https://static.wikia.nocookie.net/gensin-impact/images/c/cc/Weapon_Slingshot_3D.png"
+    },
+    {
+        "name": "Sharpshooter's Oath",
+        "id": 1,
+        "class": "Weapon",
+        "amount": 1,
+        "rarity": 3,
+        "type": "Bow",
+        "imageurl": "https://static.wikia.nocookie.net/gensin-impact/images/8/8d/Weapon_Sharpshooter%27s_Oath_3D.png"
+    },
+    {
+        "name": "Raven Bow",
+        "id": 2,
+        "class": "Weapon",
+        "amount": 1,
+        "rarity": 3,
+        "type": "Bow",
+        "imageurl": "https://static.wikia.nocookie.net/gensin-impact/images/0/01/Weapon_Raven_Bow_3D.png"
+    },
+    {
+        "name": "Emerald Orb",
+        "id": 3,
+        "class": "Weapon",
+        "amount": 1,
+        "rarity": 3,
+        "type": "Catalyst",
+        "imageurl": "https://static.wikia.nocookie.net/gensin-impact/images/7/7c/Weapon_Emerald_Orb.png"
+    },
+    {
+        "name": "Thrilling Tales of Dragon Slayers",
+        "id": 4,
+        "class": "Weapon",
+        "amount": 1,
+        "rarity": 3,
+        "type": "Catalyst",
+        "imageurl": "https://static.wikia.nocookie.net/gensin-impact/images/1/19/Weapon_Thrilling_Tales_of_Dragon_Slayers.png"
+    },
+    {
+        "name": "Magic Guide",
+        "id": 5,
+        "class": "Weapon",
+        "amount": 1,
+        "rarity": 3,
+        "type": "Catalyst",
+        "imageurl": "https://static.wikia.nocookie.net/gensin-impact/images/3/39/Weapon_Magic_Guide.png"
+    },
+    {
+        "name": "Black Tassel",
+        "id": 6,
+        "class": "Weapon",
+        "amount": 1,
+        "rarity": 3,
+        "type": "Polearm",
+        "imageurl": "https://static.wikia.nocookie.net/gensin-impact/images/3/37/Weapon_Black_Tassel_3D.png"
+    },
+    {
+        "name": "Debate Club",
+        "id": 7,
+        "class": "Weapon",
+        "amount": 1,
+        "rarity": 3,
+        "type": "Claymore",
+        "imageurl": "https://static.wikia.nocookie.net/gensin-impact/images/1/1f/Weapon_Debate_Club_3D.png"
+    },
+    {
+        "name": "Bloodtainted Greatsword",
+        "id": 8,
+        "class": "Weapon",
+        "amount": 1,
+        "rarity": 3,
+        "type": "Claymore",
+        "imageurl": "https://static.wikia.nocookie.net/gensin-impact/images/a/a3/Weapon_Bloodtainted_Greatsword_3D.png"
+    },
+    {
+        "name": "Ferrous Shadown",
+        "id": 9,
+        "class": "Weapon",
+        "amount": 1,
+        "rarity": 3,
+        "type": "Claymore",
+        "imageurl": "https://static.wikia.nocookie.net/gensin-impact/images/6/64/Weapon_Ferrous_Shadow_3D.png"
+    },
+    {
+        "name": "Skyrider Sword",
+        "id": 10,
+        "class": "Weapon",
+        "amount": 1,
+        "rarity": 3,
+        "type": "Sword",
+        "imageurl": "https://static.wikia.nocookie.net/gensin-impact/images/4/45/Weapon_Skyrider_Sword_3D.png"
+    },
+    {
+        "name": "Harbinger of Dawn",
+        "id": 11,
+        "class": "Weapon",
+        "amount": 1,
+        "rarity": 3,
+        "type": "Sword",
+        "imageurl": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Weapon_Harbinger_of_Dawn_3D.png"
+    },
+    {
+        "name": "Cool Steel",
+        "id": 12,
+        "class": "Weapon",
+        "amount": 1,
+        "rarity": 3,
+        "type": "Sword",
+        "imageurl": "https://static.wikia.nocookie.net/gensin-impact/images/4/40/Weapon_Cool_Steel_3D.png"
+    }
+    ]
+}

@@ -1,0 +1,259 @@
+{
+    "five": [
+    {
+        "name": "Diluc",
+        "id": 0,
+        "class": "Character",
+        "rarity": 5,
+        "weapon_type": "Claymore",
+        "vision": "Pyro",
+        "imageurl": "https://i.imgur.com/rIt7hLS.jpg"
+    },
+    {
+        "name": "Jean",
+        "id": 1,
+        "class": "Character",
+        "rarity": 5,
+        "weapon_type": "Sword",
+        "vision": "Anemo",
+        "imageurl": "https://i.imgur.com/i9aqnfq.jpg"
+    },
+    {
+        "name": "Keqing",
+        "id": 2,
+        "class": "Character",
+        "rarity": 5,
+        "weapon_type": "Sword",
+        "vision": "Electro",
+        "imageurl": "https://i.imgur.com/dOk2SVg.jpg"
+    },
+    {
+        "name": "Mona",
+        "id": 3,
+        "class": "Character",
+        "rarity": 5,
+        "weapon_type": "Catalyst",
+        "vision": "Hydro",
+        "imageurl": "https://i.imgur.com/xPO5SxZ.jpg"
+    },
+    {
+        "name": "Qiqi",
+        "id": 4,
+        "class": "Character",
+        "rarity": 5,
+        "weapon_type": "Sword",
+        "vision": "Cryo",
+        "imageurl": "https://i.imgur.com/Je2RpdM.jpg"
+    },
+    {
+        "name": "Venti",
+        "id": 5,
+        "class": "Character",
+        "rarity": 5,
+        "weapon_type": "Bow",
+        "vision": "Anemo",
+        "imageurl": "https://i.imgur.com/LjpYD0K.jpg"
+    },
+    {
+        "name": "Klee",
+        "id": 6,
+        "class": "Character",
+        "rarity": 5,
+        "weapon_type": "Catalyst",
+        "vision": "Pyro",
+        "imageurl": "https://i.imgur.com/gpmCIzq.jpg"
+    },
+    {
+        "name": "Tartaglia",
+        "id": 7,
+        "class": "Character",
+        "rarity": 5,
+        "weapon_type": "Bow",
+        "vision": "Hydro",
+        "imageurl": "https://i.imgur.com/VACr8m5.png"
+    },
+    {
+        "name": "Zhongli",
+        "id": 8,
+        "class": "Character",
+        "rarity": 5,
+        "weapon_type": "Polearm",
+        "vision": "Geo",
+        "imageurl": "https://i.imgur.com/roWWjA7.png"
+    },
+    {
+        "name": "Albedo",
+        "id": 9,
+        "class": "Character",
+        "rarity": 5,
+        "weapon_type": "Sword",
+        "vision": "Geo",
+        "imageurl": "https://i.imgur.com/jM08lDT.png"
+    },
+    {
+        "name": "Ganyu",
+        "id": 10,
+        "class": "Character",
+        "rarity": 5,
+        "weapon_type": "Bow",
+        "vision": "Cryo",
+        "imageurl": "https://i.imgur.com/k4vtnpQ.png"
+    },
+    {
+        "name": "Xiao",
+        "id": 11,
+        "class": "Character",
+        "rarity": 5,
+        "weapon_type": "Polearm",
+        "vision": "Anemo",
+        "imageurl": "https://static.wikia.nocookie.net/gensin-impact/images/8/88/Character_Xiao_Card.jpg"
+    }
+    ],
+
+    "four": [
+    {
+        "name": "Sucrose",
+        "id": 0,
+        "class": "Character",
+        "rarity": 4,
+        "weapon_type": "Catalyst",
+        "vision": "Anemo",
+        "imageurl": "https://static.wikia.nocookie.net/gensin-impact/images/2/22/Character_Sucrose_Card.jpg"
+    },
+    {
+        "name": "Chongyun",
+        "id": 1,
+        "class": "Character",
+        "rarity": 4,
+        "weapon_type": "Claymore",
+        "vision": "Cryo",
+        "imageurl": "https://static.wikia.nocookie.net/gensin-impact/images/f/fa/Character_Chongyun_Card.jpg"
+    },
+    {
+        "name": "Noelle",
+        "id": 2,
+        "class": "Character",
+        "rarity": 4,
+        "weapon_type": "Claymore",
+        "vision": "Geo",
+        "imageurl": "https://static.wikia.nocookie.net/gensin-impact/images/9/92/Character_Noelle_Card.jpg"
+    },
+    {
+        "name": "Bennett",
+        "id": 3,
+        "class": "Character",
+        "rarity": 4,
+        "weapon_type": "Sword",
+        "vision": "Pyro",
+        "imageurl": "https://static.wikia.nocookie.net/gensin-impact/images/7/7f/Character_Bennett_Card.jpg"
+    },
+    {
+        "name": "Fischl",
+        "id": 4,
+        "class": "Character",
+        "rarity": 4,
+        "weapon_type": "Catalyst",
+        "vision": "Electro",
+        "imageurl": "https://static.wikia.nocookie.net/gensin-impact/images/4/48/Character_Fischl_Card.jpg"
+    },
+    {
+        "name": "Ningguang",
+        "id": 5,
+        "class": "Character",
+        "rarity": 4,
+        "weapon_type": "Catalyst",
+        "vision": "Geo",
+        "imageurl": "https://static.wikia.nocookie.net/gensin-impact/images/3/3e/Character_Ningguang_Card.jpg"
+    },
+    {
+        "name": "Xingqiu",
+        "id": 6,
+        "class": "Character",
+        "rarity": 4,
+        "weapon_type": "Sword",
+        "vision": "Hydro",
+        "imageurl": "https://static.wikia.nocookie.net/gensin-impact/images/c/c2/Character_Xingqiu_Card.jpg"
+    },
+    {
+        "name": "Beidou",
+        "id": 7,
+        "class": "Character",
+        "rarity": 4,
+        "weapon_type": "Claymore",
+        "vision": "Electro",
+        "imageurl": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Character_Beidou_Card.jpg"
+    },
+    {
+        "name": "Xiangling",
+        "id": 8,
+        "class": "Character",
+        "rarity": 4,
+        "weapon_type": "Polearm",
+        "vision": "Pyro",
+        "imageurl": "https://static.wikia.nocookie.net/gensin-impact/images/f/f1/Character_Xiangling_Card.jpg"
+    },
+    {
+        "name": "Amber",
+        "id": 9,
+        "class": "Character",
+        "rarity": 4,
+        "weapon_type": "Bow",
+        "vision": "Pyro",
+        "imageurl": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Character_Amber_Card.jpg"
+    },
+    {
+        "name": "Razor",
+        "id": 10,
+        "class": "Character",
+        "rarity": 4,
+        "weapon_type": "Claymore",
+        "vision": "Electro",
+        "imageurl": "https://static.wikia.nocookie.net/gensin-impact/images/6/68/Character_Razor_Card.jpg"
+    },
+    {
+        "name": "Kaeya",
+        "id": 11,
+        "class": "Character",
+        "rarity": 4,
+        "weapon_type": "Sword",
+        "vision": "Cryo",
+        "imageurl": "https://static.wikia.nocookie.net/gensin-impact/images/6/64/Character_Kaeya_Card.jpg"
+    },
+    {
+        "name": "Barbara",
+        "id": 12,
+        "class": "Character",
+        "rarity": 4,
+        "weapon_type": "Catalyst",
+        "vision": "Hydro",
+        "imageurl": "https://static.wikia.nocookie.net/gensin-impact/images/9/93/Character_Barbara_Card.jpg"
+    },
+    {
+        "name": "Lisa",
+        "id": 13,
+        "class": "Character",
+        "rarity": 4,
+        "weapon_type": "Catalyst",
+        "vision": "Electro",
+        "imageurl": "https://static.wikia.nocookie.net/gensin-impact/images/d/dc/Character_Lisa_Card.jpg"
+    },
+    {
+        "name": "Diona",
+        "id": 14,
+        "class": "Character",
+        "rarity": 4,
+        "weapon_type": "Bow",
+        "vision": "Cryo",
+        "imageurl": "https://static.wikia.nocookie.net/gensin-impact/images/0/08/Character_Diona_Card.png"
+    },
+    {
+        "name": "Xinyan",
+        "id": 15,
+        "class": "Character",
+        "rarity": 4,
+        "weapon_type": "Claymore",
+        "vision": "Pyro",
+        "imageurl": "https://static.wikia.nocookie.net/gensin-impact/images/4/4c/Character_Xinyan_Card.jpeg"
+    }
+    ]
+}

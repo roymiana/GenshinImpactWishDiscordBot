@@ -1,0 +1,87 @@
+{
+    "vision": [
+        {
+            "type": "Pyro",
+            "url": "<:pyro:803955287907500053>"
+        },
+        {
+            "type": "Hydro",
+            "url": "<:hydro:803955289577488414>"
+        },
+        {
+            "type": "Electro",
+            "url": "<:electro:803955286457057301>"
+        },
+        {
+            "type": "Dendro",
+            "url": "<:dendrp:803955285739831296>"
+        },
+        {
+            "type": "Cryo",
+            "url": "<:cryo:803955286439493652>"
+        },
+        {
+            "type": "Anemo",
+            "url": "<:anemo:803955287056842813>"
+        },
+        {
+            "type": "Geo",
+            "url": "<:geo:803955288595365928>"
+        }
+    ],
+
+    "weaponType": [
+        {
+            "type": "Sword",
+            "url": "<:sword:803955290516881409>"
+        },
+        {
+            "type": "Claymore",
+            "url": "<:claymore:803955290206371861>"
+        },
+        {
+            "type": "Polearm",
+            "url": "<:polearm:803955290000850951>"
+        },
+        {
+            "type": "Catalyst",
+            "url": "<:catalyst:803955290420281374>"
+        },
+        {
+            "type": "Bow",
+            "url": "<:bow:803955289073385492>"
+        }
+    ],
+
+    "others":[
+        {
+            "name": "star",
+            "url": "<:skill_star:803955285323415552>"
+        },
+        {
+            "name": "3star",
+            "url": "https://media0.giphy.com/media/v42nd5toCwYrc96WYo/giphy.gif"
+        },
+        {
+            "name": "4star",
+            "url": "https://media0.giphy.com/media/r7e0oIg96SZc2iCvq8/giphy.gif"
+        },
+        {
+            "name": "5star",
+            "url": "https://media0.giphy.com/media/zPl7P612j7DQGfxPdQ/giphy.gif"
+        },
+        {
+            "name": "Character Icon",
+            "url": "https://i.imgur.com/ufLjtFC.png"
+        },
+        {
+            "name": "Inventory Icon",
+            "url": "https://i.imgur.com/vJFTQLD.png"
+        },
+        {
+            "name": "Acquaint",
+            "url": "https://static.wikia.nocookie.net/gensin-impact/images/2/22/Item_Acquaint_Fate.png"
+        }
+    ]
+}
+
